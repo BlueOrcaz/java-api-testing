@@ -39,7 +39,7 @@ public class loadApi {
                 System.out.println("Characters: " + data.get("length"));
             }
         }
-        catch(Exception e){
+        catch(Exception e) {
             System.out.println(e);
         }
     }
